@@ -4,8 +4,10 @@
 </head>
 <body>
     <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Katarina Krokhmal</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Trainee Python developer</h3> 
+    <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+    <h3 align="center">Trainee Python developer</h3> 
+    <p>Моя мета - розвивати свої навички у сфері програмування та стати професіоналом в галузі розробки на мові Python. Я щодня вивчаю нові аспекти Python та розробки, і готова             вкласти всі свої зусилля в цей процес. Одним із найефективніших способів навчання для мене є оточення, де я можу навчатися практично. Саме тому я шукаю компанію в якій зможу          отримати практичний досвід та глибше розуміння програмування на Python. Я прагну не лише набути знання та навички, але і внести свій внесок у ваші проекти. Я вірю, що моя             допомога може бути цінною для вашої команди.
+    </p>
     <ul>
         <li><strong>Знаю та вмію застосовувати базові структури даних і модулі.</strong></li>
         <li><strong>Робота з редакторами коду:</strong> VS Code, PyCharm</li>
@@ -16,7 +18,7 @@
         <li><strong>Веб-платформи:</strong> WordPress, Sites.google, Webflow</li>
         <li><strong>Інструменти для відеомонтажу:</strong> CapCut, Canva</li>
     </ul>
-    <p>Це моя родмап навчання та навичок, яка відображає мої інтереси та області, в яких я працюю. Я завжди готовий вдосконалювати свої навички та ділитися знаннями з іншими.</p>
+    
 </body>
 </html>
 
