@@ -1,14 +1,11 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Katarina Krokhmal</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Trainee Python developer</h3> 
-
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Родмап</title>
 </head>
 <body>
-    <h1>Моя родмап навчання та навичок</h1>
+    <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Katarina Krokhmal</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Trainee Python developer</h3> 
     <ul>
         <li><strong>Знаю та вмію застосовувати базові структури даних і модулі.</strong></li>
         <li><strong>Робота з редакторами коду:</strong> VS Code, PyCharm</li>
