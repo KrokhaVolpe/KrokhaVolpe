@@ -6,17 +6,21 @@
     <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Katarina Krokhmal</a> 
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
     <h3 align="center">Trainee Python developer</h3> 
-    <p>Моя мета - розвивати свої навички у сфері програмування та стати професіоналом в галузі розробки на мові Python. Я щодня вивчаю нові аспекти Python та розробки, і готова             вкласти всі свої зусилля в цей процес. Одним із найефективніших способів навчання для мене є оточення, де я можу навчатися практично. Саме тому я шукаю компанію в якій зможу          отримати практичний досвід та глибше розуміння програмування на Python. Я прагну не лише набути знання та навички, але і внести свій внесок у ваші проекти. Я вірю, що моя             допомога може бути цінною для вашої команди.
+    <p>My goal is to develop my skills in the field of programming and become a professional in Python development. I study new aspects of Python and development every day, and I am ready to put all my efforts into this process. One of the most effective ways of learning for me is being in an environment where I can learn practically. That's why I'm looking for a company where I can gain practical experience and a deeper understanding of Python programming. I aspire not only to acquire knowledge and skills but also to contribute to your projects. I believe that my assistance can be valuable to your team.
     </p>
     <ul>
-        <li><strong>Знаю та вмію застосовувати базові структури даних і модулі.</strong></li>
-        <li><strong>Робота з редакторами коду:</strong> VS Code, PyCharm</li>
-        <li><strong>Веб-розробка:</strong> HTML & CSS, знання синтаксису Python</li>
-        <li><strong>Графічний дизайн:</strong> Photoshop, Illustrator, InDesign, Figma</li>
-        <li><strong>Відомості про комп'ютерне обладнання:</strong> AIDA64, Wireshark</li>
-        <li><strong>Відео та анімація:</strong> After Effects, Adobe Animate</li>
-        <li><strong>Веб-платформи:</strong> WordPress, Sites.google, Webflow</li>
-        <li><strong>Інструменти для відеомонтажу:</strong> CapCut, Canva</li>
+        <li><strong>I know and can apply basic data structures and modules.</strong></li>
+        <li><strong>I have skills in working with Git and GitHub.</strong></li>
+        <li><strong>I have basic knowledge of HTML and CSS.</strong></li>
+        <li><strong>I have experience in developing web applications using the Flask microframework.</strong></li>
+        <li><strong>I have experience in creating desktop applications and graphical interfaces using QtDesing and PyQt.</strong></li>
+        <li><strong>I have experience implementing my own project in an IDE environment.</strong></li>
+        <li><strong>Code editors I work with:</strong>VS Code, PyCharm.</li>
+        <li><strong>Graphic design:</strong> Photoshop, Illustrator, InDesign, Figma.</li>
+        <li><strong>Computer hardware knowledge:</strong> AIDA64, Wireshark.</li>
+        <li><strong>Video and animation:</strong> After Effects, Adobe Animate.</li>
+        <li><strong>Web platforms:</strong> WordPress</li>
+        <li><strong>Video editing tools:</strong> CapCut, Canva.</li>
     </ul>
     
 </body>
